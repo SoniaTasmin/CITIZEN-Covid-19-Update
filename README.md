@@ -10,5 +10,7 @@ Multidimensional web application:
     •	charity(donate/request), 
     
     •	search hospital in the nearby area
+    
 
+## Architecture Diagram
 ![](https://github.com/SoniaTasmin/CITIZEN-Covid-19-Update/blob/main/figures/architecture%20Diagram.png)
