@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+   
+    
+    height: 100vh;
+  }
+  
+  h1 {
+    text-align: center;
+    font-family: Tahoma, Arial, sans-serif;
+    color: #06D85F;
+    margin: 80px 0;
+  }
+  
+  
+  
+  
+  
+  
+  .popup {
+    margin: 70px auto;
+    padding: 20px;
+    background: #98AFC7;
+    border-radius: 5px;
+    width: 30%;
+    position: center;
+    
+    
+  }
+  
+  .popup h2 {
+    margin-top: 0;
+    color: #333;
+    font-family: Tahoma, Arial, sans-serif;
+ 
+  .popup .content {
+    max-height: 30%;
+    overflow: auto;
+  }
+  
+  @media screen and (max-width: 700px){
+    
+    .popup{
+      width: 70%;
+    }
+  }
